@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Richard Martin, aka unixy
 - 👀 I'm a Computer Science and Management Student
 - 📚 Polytech Montpellier (France)
-- 👾 Mainly work with  : Javascript, Java, C#
+- 👾 Mainly work with  : Typescript/Javascript, Java, C#
 - 👨🏻‍🎓Still learning : Swift,Python, Lua
 - 💡Want to learn : Scala, Rust, Carbon? (maybe)
 - 💾 Interested in new technologies
